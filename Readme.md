@@ -1,4 +1,3 @@
-hrthrhr
 # 💫 About Me: 
 
 ![Estado](https://img.shields.io/badge/Estado-Activo-red)
