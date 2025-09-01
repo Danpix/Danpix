@@ -1,4 +1,4 @@
-<div style="background-color:#0d1117; color:white; padding:20px; border-radius:10px;">
+<div style="background-color:red; color:white; padding:20px; border-radius:10px;">
   <h1>💫 About Me</h1>
   <p>Hola!, Soy un Ingeniero en sistemas apasionado por la tecnología, el trabajo en equipo<br>siempre me distingue.</p>
   
