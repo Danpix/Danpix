@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hola!, Soy un Ingeniero en sistemas apasionado por la tecnología, el trabajo en equipo<br>siempre me distingue.
 
+![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
+![Proyecto](https://img.shields.io/badge/Proyecto-README-blue)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevin.chan1512@gmail.com) 
