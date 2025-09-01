@@ -1,4 +1,5 @@
-![Banner](https://via.placeholder.com/800x200/ADD8E6/000000?text=Mi+Fondo+Azul)
+![Banner](https://via.placeholder.com/1200x300/ADD8E6/000000?text=Mi+Fondo+Azul)
+
 # 💫 About Me: 
 
 ![Estado](https://img.shields.io/badge/Estado-Activo-red)
