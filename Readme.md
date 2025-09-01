@@ -1,5 +1,6 @@
-![Banner](imganes/images.jpeg)
-
+<p style="background-color:pink; padding:10px; border-radius:8px;">
+💫 About Me: Hola!, Soy un Ingeniero en sistemas apasionado por la tecnología.
+</p>
 
 # 💫 About Me: 
 
