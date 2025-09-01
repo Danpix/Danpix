@@ -15,4 +15,10 @@ Hola!, Soy un Ingeniero en sistemas apasionado por la tecnología, el trabajo en
 ---
 [![](https://visitcount.itsvg.in/api?id=Danpix&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+###
+
+<img src="https://raw.githubusercontent.com/danpix/danpix/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
