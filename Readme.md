@@ -1,4 +1,5 @@
-![Banner](https://via.placeholder.com/1200x300/ADD8E6/000000?text=Mi+Fondo+Azul)
+![Banner](./imganes/imagenes.jpeg)
+
 
 # 💫 About Me: 
 
