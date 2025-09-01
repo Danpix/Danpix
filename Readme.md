@@ -1,4 +1,4 @@
-![Banner](imganes/imagenes.jpeg)
+![Banner](imganes/images.jpeg)
 
 
 # 💫 About Me: 
